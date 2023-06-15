@@ -1,0 +1,18 @@
+.titles {
+    font-family: 'Merriweather', serif;
+    color: #D5A945 !important;
+}
+
+.lead {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.frontend-mentor {
+    color: #878d93;
+}
+
+@media (max-width: 991px) {
+    body {
+        text-align: center;
+    }
+}
